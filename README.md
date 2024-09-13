@@ -14,9 +14,6 @@ Welcome to the **My Courses & Lessons App** project! This mobile application is 
 - **Home Page**: After logging in, users can access the home page, which displays a list of available courses.
 - **Courses Display**: The home page currently lists the courses retrieved from the backend. Future updates will include more details about each course and lesson.
 
- Screenshots
-
-> [Add screenshots here in the future to give a visual overview of your app's user interface]
 
 Technologies Used
 
